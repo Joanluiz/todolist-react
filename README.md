@@ -10,7 +10,7 @@ Neste projeto, construi uma pequena aplicação no estilo "Lista de Tarefas" usa
 ## PREVIEW DO PROJETO:
 
 <div align="center">
-  <img src="./src/assets/todolist.gif" width="900px">
+  <img src="./src/assets/todolist.gif" width="700px">
 </div>
 <br>
 
